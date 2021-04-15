@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shaileshkumar Jamanapara
+- 👋 Hi, I’m Shailesh Jamanapara
 - 👀 I’m interested in web app development with php symfony
 - 💞️ I’m looking to collaborate on php designpattern implementation projecys
 - 📫 How to reach me shailesh.gajjar83@gmail.com Mo: +91 9081036290
